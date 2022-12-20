@@ -1,0 +1,26 @@
+{
+  "voitures": [
+    {
+      "id": 1,
+      "titre": "Ferrari 458",
+      "description": "La 458 Italia est une voiture de sport produite par le constructeur italien Ferrari. Les deux premiers chiffres de son nom indiquent la cylindrée du moteur et le dernier, le nombre de cylindres. Le nom « Italia », succédant à « Modena » et « Maranello », rappelle les origines géographiques de la marque.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ferrari_458_Italia_-_Mondial_de_l%27Automobile_de_Paris_2012_-_001.jpg/1024px-Ferrari_458_Italia_-_Mondial_de_l%27Automobile_de_Paris_2012_-_001.jpg"
+    },
+    {
+      "id": 2,
+      "titre": "Lamborghini Huracán",
+      "description": "L'Huracán est une supercar du constructeur automobile italien Lamborghini. Dévoilée lors du salon international de l'automobile de Genève 2014, elle succède à la Gallardo en utilisant un moteur V10 de 5,2 litres développant 610 ch (449 kW).",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2014-03-04_Geneva_Motor_Show_1377.JPG/1024px-2014-03-04_Geneva_Motor_Show_1377.JPG"
+    },
+    {
+      "id": 3,
+      "titre": "Ford Mustang I (1964)",
+      "description": "À l'image de l'industrie automobile américaine, le « petit » coupé de chez Ford sortit en de nombreuses versions. Les trois principales sont ses formats de carrosseries :"
+    },
+    {
+      "id": 4,
+      "titre": "Ford Mustang II",
+      "description": "À l'image de l'industrie automobile américaine, le « petit » coupé de chez Ford sortit en de nombreuses versions. Les trois principales sont ses formats de carrosseries :"
+    }
+  ]
+}
